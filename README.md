@@ -11,7 +11,6 @@
 - ✅ Voice-only quiz mode — no clicks needed!
 - ✅ Text-to-speech playback of vocabulary words
 - ✅ Speech recognition to check spoken answers
-- ✅ Simple, clean green-and-white themed UI
 - ✅ Review and retake quizzes
 
 ---
@@ -20,7 +19,7 @@
 
 - **JavaScript** (vanilla)
 - **Web Speech API** for TTS + STT
-- HTML / CSS (modern, responsive, green-and-white theme)
+- HTML / CSS 
 
 ---
 
